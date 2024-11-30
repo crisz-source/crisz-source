@@ -18,6 +18,10 @@
   <img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cris-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Cris-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="GitHub Actions" height="30" width="40" src="https://www.svgrepo.com/show/306098/githubactions.svg">
+   <img align="center" alt="Prometheus" height="30" width="40" src="https://www.svgrepo.com/download/354219/prometheus.svg">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://grafana.com/static/assets/img/fav32.png">
+
 </div>
   
   ##
