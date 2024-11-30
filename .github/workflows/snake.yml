@@ -1,0 +1,24 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Atualiza diariamente às 23:59
+    - cron: "59 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Verifica o repositório
+      - uses: actions/checkout@v2
+      # Configura o Python para gerar a animação
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: SEU-USUARIO
+          outputs: dist/snake.svg
+      # Envia a animação para o branch de saída
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
