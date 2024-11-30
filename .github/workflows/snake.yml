@@ -10,15 +10,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Verifica o repositório
-      - uses: actions/checkout@v2
-      # Configura o Python para gerar a animação
-      - uses: Platane/snk@v2
+      # Checkout do repositório
+      - uses: actions/checkout@v3
+
+      # Geração da animação da cobrinha
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: SEU-USUARIO
+          github_user_name: crisz-source
           outputs: dist/snake.svg
-      # Envia a animação para o branch de saída
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+
+      # Publicação do arquivo no branch "output"
+      - name: Push Snake Animation to output branch
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
