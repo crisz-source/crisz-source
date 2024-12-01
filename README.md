@@ -1,13 +1,20 @@
 ## Olá! Eu sou o Cristhian Ramos 👋
 
-- 🔭 Hoje eu trabalho como Estagiário em DevOps
-- 🌱 Atualmente estou estudando Kubernetes
+Sou um entusiasta de tecnologia com 22 anos, atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em **DevOps** e automações, sempre buscando aprender e aplicar novas tecnologias.
+
+## O que eu faço
+
+- 💼 Atualmente estou estagiando em DevOps na prefeitura da minha cidade, Belo Horizonte, onde estou ganhando experiência prática em ferramentas e práticas da área.
+- 🔧 Desenvolvo o site [Wydzro](https://wydzro.com.br) como um projeto pessoal, combinando aprendizado com diversão.
+- 🌱 Estou sempre aprendendo mais sobre ferramentas e práticas DevOps
+- 🎮 Nas horas vagas, gosto de assistir Twitch, séries, e jogar alguns jogos
 
 
-
+## Minhas estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,8 +30,9 @@
   <img align="center" alt="Grafana" height="30" width="40" src="https://grafana.com/static/assets/img/fav32.png">
 
 </div>
+
   
-  ##
+  ## Contato
  
 <div> 
   
@@ -33,3 +41,10 @@
 </div>
 
 
+
+
+
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou perguntas. Vamos construir coisas incríveis juntos! 🚀
