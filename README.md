@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Cristhian Ramos 👋
 
-Sou um entusiasta de tecnologia com 22 anos, atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em **DevOps** e automações, sempre buscando aprender e aplicar novas tecnologias.
+Sou um entusiasta de tecnologia com 23 anos, atualmente cursando o quarto período de Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em nas áreas de **Infraestrutura e DevOps**, automações, sempre buscando aprender e aplicar novas tecnologias.
 
 ## O que eu faço
 
-- 💼 Atualmente estou estagiando em DevOps na prefeitura da minha cidade, Belo Horizonte, onde estou ganhando experiência prática em ferramentas e práticas da área.
+- 💼 Atualmente estou estagiando em infraestrutura e DevOps na prefeitura da minha cidade, Belo Horizonte, onde estou ganhando experiência prática em ferramentas e práticas da área.
 - 🔧 Desenvolvo o site [Wydzro](https://wydzro.com.br) como um projeto pessoal, combinando aprendizado com diversão.
 - 🌱 Estou sempre aprendendo mais sobre ferramentas e práticas DevOps
 - 🎮 Nas horas vagas, gosto de assistir Twitch, séries, e jogar alguns jogos
