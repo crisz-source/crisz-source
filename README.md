@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cristhian Ramos 👋
 
-Sou um entusiasta de tecnologia com 23 anos, atualmente cursando o quarto período de Análise e Desenvolvimento de Sistemas. Tenho um grande interesse em nas áreas de **DevOps**, automações, sempre buscando aprender e aplicar novas tecnologias.
+Sou um entusiasta de tecnologia com 23 anos, atualmente cursando o quarto período de Análise e Desenvolvimento de Sistemas. Tenho um grande interesse nas áreas de **DevOps**, automações, sempre buscando aprender e aplicar novas tecnologias.
 
 ## O que eu faço
 
@@ -46,5 +46,3 @@ Sou um entusiasta de tecnologia com 23 anos, atualmente cursando o quarto perío
 
 
 ---
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou perguntas. Vamos construir coisas incríveis juntos! 🚀
